@@ -7,3 +7,4 @@ git add gitCommands.sh
 git commit -m 'TaskId: This is the git demo task'
 git remote add origin https://github.com/bz-cwt/git-demo.git
 git checkout -b demo
+git push --set-upstream origin demo
